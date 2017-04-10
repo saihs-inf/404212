@@ -1,0 +1,9 @@
+C:\Users\INF2A-user\Desktop\holow\holow\bin\Debug\holow.exe.config
+C:\Users\INF2A-user\Desktop\holow\holow\bin\Debug\holow.exe
+C:\Users\INF2A-user\Desktop\holow\holow\bin\Debug\holow.pdb
+C:\Users\INF2A-user\Desktop\holow\holow\obj\Debug\holow.csprojResolveAssemblyReference.cache
+C:\Users\INF2A-user\Desktop\holow\holow\obj\Debug\holow.Form1.resources
+C:\Users\INF2A-user\Desktop\holow\holow\obj\Debug\holow.Properties.Resources.resources
+C:\Users\INF2A-user\Desktop\holow\holow\obj\Debug\holow.csproj.GenerateResource.Cache
+C:\Users\INF2A-user\Desktop\holow\holow\obj\Debug\holow.exe
+C:\Users\INF2A-user\Desktop\holow\holow\obj\Debug\holow.pdb
