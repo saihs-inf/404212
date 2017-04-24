@@ -36,5 +36,10 @@ namespace holow
         {
             MessageBox.Show("hate the world～～");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("I don't speak english ! ! ");
+        }
     }
 }
