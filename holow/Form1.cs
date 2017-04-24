@@ -34,7 +34,7 @@ namespace holow
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("fuck u");
+            MessageBox.Show("hate U");
         }
     }
 }
